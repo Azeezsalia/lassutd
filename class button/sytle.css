@@ -1,0 +1,14 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100px;
+ background-color: mediumblue;
+ background: url(/gettyimages-72415157-612x612.jpg);
+}
+.class1{
+    border-radius: 50px;
+    padding: 10px;
+    background-color: rgba(62, 212, 32, 0.274);
+
+}
